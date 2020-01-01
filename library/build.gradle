@@ -4,7 +4,6 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion global_compileSdkVersion
-    buildToolsVersion global_buildToolsVersion
 
 
     defaultConfig {
@@ -44,8 +43,8 @@ android {
             doNotStrip "*/arm64-v8a/*.so"
             doNotStrip "*/x86/*.so"
             doNotStrip "*/x86_64/*.so"
-            doNotStrip "*/mips/*.so"
-            doNotStrip "*/mips64/*.so"
+            // doNotStrip "*/mips/*.so"
+            // doNotStrip "*/mips64/*.so"
         }
     }
 
@@ -58,10 +57,10 @@ android {
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
-    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
-    provided "com.android.support:support-annotations:${SUPPORT_VERSION}"
-    testCompile 'junit:junit:4.12'
+    compileOnly "com.android.support:support-annotations:${SUPPORT_VERSION}"
+    testImplementation 'junit:junit:4.12'
 }

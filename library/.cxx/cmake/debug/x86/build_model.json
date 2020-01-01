@@ -1,0 +1,81 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample",
+      "sdkFolder": "/Users/zhangyeqi/Library/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/build/intermediates",
+      "gradleModulePathName": ":library",
+      "moduleRootFolder": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library",
+      "makeFile": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/src/main/cpp/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/.cxx",
+      "cxxFolder": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/.cxx",
+      "ndkFolder": "/Users/zhangyeqi/Library/Android/sdk/ndk-bundle",
+      "ndkVersion": "20.1.5948944",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "-DANDROID_STL\u003dc++_static",
+      "-DANDROID_PLATFORM\u003dandroid-14"
+    ],
+    "cFlagList": [
+      "-fpic",
+      "-fexceptions",
+      "-frtti"
+    ],
+    "cppFlagsList": [
+      "-fpic",
+      "-fexceptions",
+      "-frtti"
+    ],
+    "variantName": "debug",
+    "soFolder": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/build/intermediates/cmake/debug/lib",
+    "objFolder": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/build/intermediates/cmake/debug/obj",
+    "jsonFolder": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/.cxx/cmake/debug",
+    "gradleBuildOutputFolder": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/.cxx/cmake/debug/x86",
+  "jsonFile": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/.cxx/cmake/debug/x86/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/.cxx/cxx/debug/x86",
+  "objFolder": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/build/intermediates/cmake/debug/obj/x86",
+  "buildCommandFile": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/.cxx/cmake/debug/x86/build_command.txt",
+  "buildOutputFile": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/.cxx/cmake/debug/x86/build_output.txt",
+  "modelOutputFile": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/.cxx/cmake/debug/x86/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/.cxx/cxx/debug/x86/CMakeLists.txt",
+    "toolchainWrapperFile": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/.cxx/cxx/debug/x86/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/.cxx/cxx/debug/x86/build_generation_state.json",
+    "cacheKeyFile": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/.cxx/cxx/debug/x86/compiler_cache_key.json",
+    "compilerCacheUseFile": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/.cxx/cxx/debug/x86/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/.cxx/cxx/debug/x86/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/.cxx/cxx/debug/x86/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/.cxx/cmake/debug/x86/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/.cxx/cmake/debug/x86/compile_commands.json"
+}

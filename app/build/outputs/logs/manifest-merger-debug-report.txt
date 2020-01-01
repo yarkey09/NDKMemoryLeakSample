@@ -1,0 +1,125 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/bd472be5da47a654452b5ec77f5dc0ed/appcompat-v7-25.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [:library] /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/63bbc3cb833c21570b749478819dbcda/animated-vector-drawable-25.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/1ce96f487022bb6dc6c57342efe72ff6/support-vector-drawable-25.1.1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/a99b3b7fcb58c1dfd9164580ee412b20/support-v4-25.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/5b105059c2e198a9b137da4cc2e7b826/support-fragment-25.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/f9addcbd47c49a6f3a9da6c2f394617f/support-media-compat-25.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/2d4310de87a9246da7200f23f2bdef18/support-core-utils-25.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/e44732a1c826224ae84b3a2d7400533e/support-core-ui-25.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/763ce4e0613cfc2c73119786cb3aba1f/support-compat-25.1.1/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:3:11-52
+		INJECTED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:8:5-22:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/bd472be5da47a654452b5ec77f5dc0ed/appcompat-v7-25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/bd472be5da47a654452b5ec77f5dc0ed/appcompat-v7-25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [:library] /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-10:19
+MERGED from [:library] /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-10:19
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/63bbc3cb833c21570b749478819dbcda/animated-vector-drawable-25.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/63bbc3cb833c21570b749478819dbcda/animated-vector-drawable-25.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/1ce96f487022bb6dc6c57342efe72ff6/support-vector-drawable-25.1.1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/1ce96f487022bb6dc6c57342efe72ff6/support-vector-drawable-25.1.1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/a99b3b7fcb58c1dfd9164580ee412b20/support-v4-25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/a99b3b7fcb58c1dfd9164580ee412b20/support-v4-25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/5b105059c2e198a9b137da4cc2e7b826/support-fragment-25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/5b105059c2e198a9b137da4cc2e7b826/support-fragment-25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/f9addcbd47c49a6f3a9da6c2f394617f/support-media-compat-25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/f9addcbd47c49a6f3a9da6c2f394617f/support-media-compat-25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/2d4310de87a9246da7200f23f2bdef18/support-core-utils-25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/2d4310de87a9246da7200f23f2bdef18/support-core-utils-25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/e44732a1c826224ae84b3a2d7400533e/support-core-ui-25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/e44732a1c826224ae84b3a2d7400533e/support-core-ui-25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/763ce4e0613cfc2c73119786cb3aba1f/support-compat-25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/763ce4e0613cfc2c73119786cb3aba1f/support-compat-25.1.1/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:14:9-40
+activity#io.github.lizhangqu.test.sample.MainActivity
+ADDED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:15:19-78
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/bd472be5da47a654452b5ec77f5dc0ed/appcompat-v7-25.1.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/bd472be5da47a654452b5ec77f5dc0ed/appcompat-v7-25.1.1/AndroidManifest.xml:21:5-23:78
+MERGED from [:library] /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:library] /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/63bbc3cb833c21570b749478819dbcda/animated-vector-drawable-25.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/63bbc3cb833c21570b749478819dbcda/animated-vector-drawable-25.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/1ce96f487022bb6dc6c57342efe72ff6/support-vector-drawable-25.1.1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/1ce96f487022bb6dc6c57342efe72ff6/support-vector-drawable-25.1.1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/a99b3b7fcb58c1dfd9164580ee412b20/support-v4-25.1.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/a99b3b7fcb58c1dfd9164580ee412b20/support-v4-25.1.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/5b105059c2e198a9b137da4cc2e7b826/support-fragment-25.1.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/5b105059c2e198a9b137da4cc2e7b826/support-fragment-25.1.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/f9addcbd47c49a6f3a9da6c2f394617f/support-media-compat-25.1.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/f9addcbd47c49a6f3a9da6c2f394617f/support-media-compat-25.1.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/2d4310de87a9246da7200f23f2bdef18/support-core-utils-25.1.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/2d4310de87a9246da7200f23f2bdef18/support-core-utils-25.1.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/e44732a1c826224ae84b3a2d7400533e/support-core-ui-25.1.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/e44732a1c826224ae84b3a2d7400533e/support-core-ui-25.1.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/763ce4e0613cfc2c73119786cb3aba1f/support-compat-25.1.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/763ce4e0613cfc2c73119786cb3aba1f/support-compat-25.1.1/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] /Users/zhangyeqi/.gradle/caches/transforms-2/files-2.1/bd472be5da47a654452b5ec77f5dc0ed/appcompat-v7-25.1.1/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/app/src/main/AndroidManifest.xml

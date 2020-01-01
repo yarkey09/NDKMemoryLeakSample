@@ -1,0 +1,4 @@
+/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/.cxx/cmake/debug/x86/CMakeFiles/test-jni.dir
+/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/.cxx/cmake/debug/x86/CMakeFiles/leaktracer.dir

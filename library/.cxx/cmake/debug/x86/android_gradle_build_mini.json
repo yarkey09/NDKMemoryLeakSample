@@ -1,0 +1,22 @@
+{
+  "buildFiles": [
+    "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/zhangyeqi/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/.cxx/cmake/debug/x86 --target clean"
+  ],
+  "libraries": {
+    "test-jni-Debug-x86": {
+      "artifactName": "test-jni",
+      "buildCommand": "/Users/zhangyeqi/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/.cxx/cmake/debug/x86 --target test-jni",
+      "abi": "x86",
+      "output": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/build/intermediates/cmake/debug/obj/x86/libtest-jni.so"
+    },
+    "leaktracer-Debug-x86": {
+      "artifactName": "leaktracer",
+      "buildCommand": "/Users/zhangyeqi/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/.cxx/cmake/debug/x86 --target leaktracer",
+      "abi": "x86",
+      "output": "/Users/zhangyeqi/Documents/sourcecode/NDKMemoryLeakSample/library/.cxx/cmake/debug/x86/libleaktracer.a"
+    }
+  }
+}
